@@ -137,3 +137,16 @@ excel-motogp-analysis/
 ├── docs/
 └── workbook/
 ```
+## Screenshots
+
+### Power Query Cleaning
+![Power Query Cleaning](docs/screenshots/power-query-cleaning.png)
+
+### Driver Ranking Overview
+![Driver Ranking Overview](docs/screenshots/driver-ranking-overview.png)
+
+### Facts and KPI View
+![Facts and KPI View](docs/screenshots/facts-dropdown-kpis.png)
+
+### DNF Risk Analysis
+![DNF Risk Analysis](docs/screenshots/dnf-risk-analysis.png)
